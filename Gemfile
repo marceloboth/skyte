@@ -16,4 +16,6 @@ gem 'ember-rails'
 gem 'ember-source'
 gem 'emblem-rails'
 
+gem 'foundation-rails'
+
 gem 'unicorn'
