@@ -1,1 +1,18 @@
-h1 Hello World!
+nav.top-bar
+  ul.title-area
+    li.name
+      h1
+        a href="#"  Skite
+    li.toggle-topbar.menu-icon
+      a href="#"
+        span Menu
+
+  section.top-bar-section
+    ul.right
+      li
+        a href="#"  Lists
+      li
+        a href="#" Achievements
+
+.container
+  outlet

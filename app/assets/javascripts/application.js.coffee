@@ -8,7 +8,9 @@
 #= require app
 
 # for more details see: http://emberjs.com/guides/application/
-window.App = Ember.Application.create()
+window.App = Ember.Application.create(rootElement: "#ember-app")
 
+$ ->
+  $(document).foundation()
+  return
 
-$(function(){ $(document).foundation(); });

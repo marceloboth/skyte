@@ -1,0 +1,43 @@
+.row.panel
+  #avatar.large-4.columns
+    img src="/assets/ninja.png"
+  #about-me.large-8.columns
+    h2 About me
+    p Lorem ipsum dolor sit amet, consectetur adipisicing elit. Perspiciatis, eos, incidunt, nisi possimus saepe eligendi sapiente fugiat quaerat id mollitia aliquam voluptatem atque similique fuga pariatur vero consectetur inventore ex.
+    p.links.right
+      img alt="" src="/assets/fc-webicon-twitter.png"
+        img alt="" src="/assets/fc-webicon-facebook.png"
+.row
+  ul.large-block-grid-3
+    li
+      h3.subheader style="text-align:center;"  2013
+      hr
+        ul
+          li
+            small 05.01
+            | Passed exam for driver license
+          li
+            small 25.01
+            | Moved to better appartment
+          li
+            small 13.02
+            | Opened my own business
+          li
+            small 01.04
+            | Get married
+          li
+            small 04.05
+            | Preped everything for the vacation abroad
+    li
+      h3.subheader style="text-align:center;"  Books
+      hr
+        ul
+          li
+            small 27.10.12
+            | Rails in Action
+          li
+            small 13.03.13
+            | Game of Thrones
+          li
+            small 18.04.13
+            | Object-oriented design
